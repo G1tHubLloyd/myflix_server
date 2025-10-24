@@ -4,7 +4,11 @@
   "description": "A full-stack authentication API using Node.js, Express, MongoDB, and bcrypt",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "engines": {
+    "node": "18.x"
   },
   "keywords": [
     "node",

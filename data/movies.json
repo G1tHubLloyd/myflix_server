@@ -1,0 +1,28 @@
+[
+    {
+        "_id": "1",
+        "Title": "The Shawshank Redemption",
+        "Description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+        "Genre": {
+            "Name": "Drama",
+            "Description": "Dramatic films"
+        },
+        "Director": {
+            "Name": "Frank Darabont",
+            "Bio": "American filmmaker"
+        }
+    },
+    {
+        "_id": "2",
+        "Title": "The Godfather",
+        "Description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "Genre": {
+            "Name": "Crime",
+            "Description": "Crime films"
+        },
+        "Director": {
+            "Name": "Francis Ford Coppola",
+            "Bio": "American film director"
+        }
+    }
+]
